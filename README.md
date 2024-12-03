@@ -93,7 +93,7 @@ Include photos of the prototype, components, and a working setup:
 2. **LCD Display:** A close-up of the LCD showing speed measurements.  
 3. **Testing:** Demonstrate the system with an object moving between the sensors.  
 
-<img src="images/BlockDiagram.png">
+<img src="speed_checker_simulation _image (1).png">
 
 ---
 
