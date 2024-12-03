@@ -36,7 +36,7 @@ The hardware components required for building this project include:
 ## Circuit Diagram  
 Include an image of the complete circuit diagram, showing connections between the 8051 microcontroller, IR sensors, LCD display, and other components.  
 
-<img src="images/BlockDiagram.png">  
+<img src="speed_checker_simulation _image (1).png">  
 
 ---
 
