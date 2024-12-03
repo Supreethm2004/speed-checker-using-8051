@@ -36,8 +36,7 @@ The hardware components required for building this project include:
 ## Circuit Diagram  
 Include an image of the complete circuit diagram, showing connections between the 8051 microcontroller, IR sensors, LCD display, and other components.  
 
-![Circuit Diagram Placeholder]  
-*(Upload a clear and labeled circuit diagram here.)*  
+<img src="images/BlockDiagram.png">  
 
 ---
 
@@ -94,7 +93,7 @@ Include photos of the prototype, components, and a working setup:
 2. **LCD Display:** A close-up of the LCD showing speed measurements.  
 3. **Testing:** Demonstrate the system with an object moving between the sensors.  
 
-![Prototype Image Placeholder]  
+<img src="images/BlockDiagram.png">
 
 ---
 
